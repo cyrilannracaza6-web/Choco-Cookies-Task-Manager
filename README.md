@@ -12,3 +12,14 @@
 - Edit Task
 - Delete Task
 - Update Status
+
+## Screenshots
+
+### Screenshot 1
+![Screenshot 1](Screenshot%20%2881%29.png)
+
+### Screenshot 2
+![Screenshot 2](Screenshot%20%2882%29.png)
+
+### Screenshot 3
+![Screenshot 3](Screenshot%20%2883%29.png)
